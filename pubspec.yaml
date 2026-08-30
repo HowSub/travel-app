@@ -46,4 +46,7 @@ flutter:
     - family: Poppins-SemiBold
       fonts:
         - asset: assets/fonts/Poppins-SemiBold.ttf
+    - family: Lobster
+      fonts:
+        - asset: assets/fonts/Lobster.ttf
 
