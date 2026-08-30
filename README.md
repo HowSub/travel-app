@@ -1,4 +1,4 @@
-# Travel App
+# Travel App UI
 
 ## This app helps you find the trips 💙
 

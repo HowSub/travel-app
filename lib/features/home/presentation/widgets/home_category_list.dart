@@ -21,7 +21,7 @@ class _HomeCategoryListState extends State<HomeCategoryList> {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: 56,
+      height: 58,
       child: ListView.separated(
         clipBehavior: Clip.none,
         scrollDirection: Axis.horizontal,
@@ -35,7 +35,6 @@ class _HomeCategoryListState extends State<HomeCategoryList> {
               });
             },
             child: Container(
-              height: 54,
               padding: EdgeInsets.symmetric(horizontal: 21, vertical: 18),
               decoration: BoxDecoration(
                 color: selectedId == category.id
