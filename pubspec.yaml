@@ -36,4 +36,7 @@ flutter:
     - family: Roboto
       fonts:
         - asset: assets/fonts/Roboto.ttf
+    - family: Poppins-SemiBold
+      fonts:
+        - asset: assets/fonts/Poppins-SemiBold.ttf
 
