@@ -2,7 +2,9 @@
 
 ## This app helps you find the trips 💙
 
-<img width="1080" height="2424" alt="Screenshot_1788073557" src="https://github.com/user-attachments/assets/b9f193ae-5e9b-4ecd-bda3-1b86b60ef6b2" /> <img width="1080" height="2424" alt="Screenshot_1788073574" src="https://github.com/user-attachments/assets/aeb3fc6c-ab42-483f-a107-b5ac0b8dc227" />
+<img width="250" height="500" alt="Без имени-1" src="https://github.com/user-attachments/assets/c9320ffc-f2bb-4695-9f08-c3b4df1e64c9" />
+
+<img width="250" height="500" alt="Без имени-10" src="https://github.com/user-attachments/assets/1e6f473b-c13f-46d9-a4f0-617d5b5270cc" />
 
 ☀️ Trips
 
